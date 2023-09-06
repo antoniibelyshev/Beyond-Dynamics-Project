@@ -19,5 +19,5 @@ We start the algorithm with normalizing the data to have the zero mean and unit 
 ## Instructions for running the example
 
 All nessecary packages can be installed by running "pip install -r requirements.txt" in terminal.
-To simulate the generation of the data you should run the create_all.py file, e.g. run "python3 create_all.py" in terminal.
+To simulate the generation of the data you should run the create_trajectories.py file, e.g. run "python3 create_trajectories.py" in terminal.
 After these steps you are ready to run the notebook Beyond_Dynamics.ipynb.
