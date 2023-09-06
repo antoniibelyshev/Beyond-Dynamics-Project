@@ -1,0 +1,9 @@
+tqdm
+wasserstein
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+umap-learn
+
