@@ -1,6 +1,6 @@
-# Beyond-Dynamics-Rolos-Demo
+# Beyond-Dynamics-Rolos
 
-### This repository contains notebooks demonstrating the algorithm developed during the summer practice in Rolos as well as all files supporting these notebooks.
+### This repository contains the algorithm providing the prediction of the number of conserved quantities in a physical system. There also a few notebooks demonstrating the pipeline and the result
 
 ## Abstract
 
@@ -19,5 +19,5 @@ We start the algorithm with normalizing the data to have the zero mean and unit 
 ## Instructions for running the example
 
 All nessecary packages can be installed by running "pip install -r requirements.txt" in terminal.
-To simulate the generation of the data you should run the create_all.py file, e.g. run "python3 create_all.py" in terminal.
+To simulate the generation of the data you should run the generate_trajectories.py file, e.g. run "python3 generate_trajectories.py" in terminal.
 After these steps you are ready to run the notebook Beyond_Dynamics.ipynb.
