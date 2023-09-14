@@ -1,6 +1,6 @@
-# Beyond-Dynamics-Rolos-Demo
+# Beyond-Dynamics-Rolos
 
-### This repository contains notebooks demonstrating the algorithm developed during the summer practice in Rolos as well as all files supporting these notebooks.
+### This repository contains the algorithm providing the prediction of the number of conserved quantities in a physical system. There also a few notebooks demonstrating the pipeline and the result
 
 ## Abstract
 
